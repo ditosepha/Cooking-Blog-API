@@ -11,6 +11,7 @@ managing dishes, chef profiles, ingredients, and ratings.
 - **Chef Profiles**: Users can create chef profiles with culinary backgrounds and specialties.
 - **Ingredients**: Ability to manage ingredients for each dish.
 - **Ratings**: Users can rate dishes on a 5-point scale.
+- **Filtering**: The API supports filtering dishes based on parameters such as name.
 - **Permissions**: Custom permission classes ensure that users can only perform certain actions based on their roles. For example, chefs can only edit their own dishes, and authenticated users can rate dishes but not modify them.
 
 - ## Usage
